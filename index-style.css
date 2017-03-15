@@ -38,13 +38,23 @@ h1 {
 	font-size: 3.50em;
 	margin-left: 10%;
 }
+h2 {
+	color: white;
+	margin-top: 0px;
+	margin-left: 10px;
+	font-size: 2.75em;
+	margin-left: 10%;
+}
 #footer {
 	background-color: rgba(46, 68, 83, 0.9);
 	color: #e9eff3;
 	text-align: center;
-	margin-left: -15px;
-	margin-right: -17px;
-	height: 50px;
+	margin-left: -10px;
+	margin-right: 0px;
+	height: 6%;
 	margin-top: 15px;
-	font-size: 1.75em
+	font-size: 1.75em;
+	position: absolute;
+	overflow: hidden;
+	width: 100%
 }
